@@ -11,6 +11,10 @@ https://notes.shichao.io/unp/ch7/
 http://www.jianshu.com/p/7fde92785056
 http://veithen.github.io/2014/01/01/how-tcp-backlog-works-in-linux.html
 
+SO_REUSEPORT, SO_REUSEADDR
+http://blog.csdn.net/chenlycly/article/details/52191407
+http://blog.csdn.net/fz835304205/article/details/16980163
+
 Channel
 Channel相当于是一个 connection，连接到 remote peer上，只能 active/inactive 一次。不能重用
 
