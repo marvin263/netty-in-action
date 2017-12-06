@@ -15,6 +15,14 @@ SO_REUSEPORT, SO_REUSEADDR
 http://blog.csdn.net/chenlycly/article/details/52191407
 http://blog.csdn.net/fz835304205/article/details/16980163
 
+//epoll的 触发方式
+https://en.wikipedia.org/wiki/Epoll
+//epoll的linux文档
+https://linux.die.net/man/4/epoll
+
+
+
+
 Channel
 Channel相当于是一个 connection，连接到 remote peer上，只能 active/inactive 一次。不能重用
 
