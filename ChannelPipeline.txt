@@ -20,7 +20,11 @@ https://en.wikipedia.org/wiki/Epoll
 //epoll的linux文档
 https://linux.die.net/man/4/epoll
 
-
+//Blocking I/O, Nonblocking I/O, And Epoll
+https://eklitzke.org/blocking-io-nonblocking-io-and-epoll
+//edge trigger & level trigger
+https://en.wikipedia.org/wiki/Epoll
+https://www.quora.com/What-is-the-difference-between-the-edge-trigger-and-the-level-trigger-in-epoll
 
 
 Channel
